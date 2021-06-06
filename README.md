@@ -1,2 +1,2 @@
-## websites
-This repository contains websites developed as projects in college and during internship.
+## Diploma Projects
+This repository contains College Projects and Internship Projects.
